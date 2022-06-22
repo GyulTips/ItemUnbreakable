@@ -1,4 +1,4 @@
-package net.choco.itemunbreakable.utility;
+package net.yenil.itemunbreakable.utility;
 
 import org.bukkit.ChatColor;
 

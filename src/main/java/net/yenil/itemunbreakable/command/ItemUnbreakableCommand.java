@@ -1,12 +1,12 @@
-package net.choco.itemunbreakable.command;
+package net.yenil.itemunbreakable.command;
 
 import me.mattstudios.mf.annotations.Command;
 import me.mattstudios.mf.annotations.Default;
 import me.mattstudios.mf.annotations.Permission;
 import me.mattstudios.mf.annotations.SubCommand;
 import me.mattstudios.mf.base.CommandBase;
-import net.choco.itemunbreakable.utility.ChatUtils;
-import net.choco.itemunbreakable.utility.ItemUtils;
+import net.yenil.itemunbreakable.utility.ChatUtils;
+import net.yenil.itemunbreakable.utility.ItemUtils;
 import org.bukkit.Material;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;

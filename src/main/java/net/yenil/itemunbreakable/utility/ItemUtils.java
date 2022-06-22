@@ -1,4 +1,4 @@
-package net.choco.itemunbreakable.utility;
+package net.yenil.itemunbreakable.utility;
 
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;

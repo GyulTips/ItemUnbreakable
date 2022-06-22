@@ -1,12 +1,12 @@
-package net.choco.itemunbreakable;
+package net.yenil.itemunbreakable;
 
 import me.mattstudios.mf.base.CommandManager;
-import net.choco.itemunbreakable.command.ItemUnbreakableCommand;
+import net.yenil.itemunbreakable.command.ItemUnbreakableCommand;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class Main extends JavaPlugin {
 
-    private CommandManager commandManager;
+    protected CommandManager commandManager;
 
     public void onEnable() {
         commandManager = new CommandManager(this);
